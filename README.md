@@ -1,6 +1,6 @@
 # `🧿 𝚃𝚑𝚎 - 𝙱𝚘𝚝 🔮` 
 
-### `—◉ 🔗 CUENTAS OFICIALES 🔗`
+### `—◉ 🔗 CONTAS OFICIAIS 🔗`
 
 * https://www.atom.bio/spy
 
@@ -10,9 +10,8 @@
 
 <a href="https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(EN)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-> LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS QUE SEAN BOTS
 
-### `—◉ 🤖 BOTS OFICIALES 🤖`
+### `—◉ 🤖 BOTS OFICIAIS 🤖`
 
 <a href="https://api.whatsapp.com/send/?phone=554884702848&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
@@ -21,13 +20,13 @@
  > NÃO FLODAR COMANDOS
 
 ### `—◉ 💰 DOAR 💰`
-- AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://www.livepix.gg/luizaa)
+- AGRADEÇA COM UMA DOAÇÃO VOLUNTÁRIA [Aqui](https://www.livepix.gg/luizaa)
 
 ### `—◉ 🖍 LETRA BOT 🖍`
 - PAGINA USADA PARA A LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
 
 ### `—◉ 💕 PLUGINS 💕`
-- TIENES IDEAS DE PLUGINS O QUIERES OBTENER MAS PLUGINS? DA CLICK EN [https://github.com/theh2so4/Mystic-Plugins](https://github.com/theh2so4/Mystic-Plugins)
+- IDEIS DE PLUGINS? CLICK [AQUI](https://wa.me/554884702848)
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
 - CLONAR REPOSITORIO [Aqui](https://github.com/CrisAmorim27/The-Spy-Bot-MD/fork)
